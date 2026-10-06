@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "臭打 OI 的中学生，写些博客",
 
 	// 站点 URL
-	site_url: "https://caihy0924.github.io",
+	site_url: "https://caihy0924.github.io/firefly-blog",
 
 	// 站点描述
 	description:
